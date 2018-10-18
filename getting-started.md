@@ -73,7 +73,7 @@ Here is the JSON schema for the contract indexer config:
         },
 	"smartRestart": {
             "type": "boolean",
-            "description": "Indicate to the indexer to index the contract at the latest block seen for this contract.",
+            "description": "Indicate to the indexer to start indexing the contract at the latest block seen for this contract even if start block is supplied.",
 	    "required": true
         },
 	"contractType": {
