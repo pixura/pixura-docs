@@ -91,4 +91,6 @@ Here is the JSON schema for the contract indexer config:
 ```
 
 
-The expected response body in the event of success is the string: “Success”
+The expected response body in the event of success is the string: “Success”.
+
+Once your contract is indexed, you can run queries on it as described above :tada:
