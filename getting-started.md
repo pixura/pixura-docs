@@ -84,7 +84,7 @@ Here is the JSON schema for the contract indexer config:
         "image": {
             "type": "string",
             "description": "A URI pointing to a resource with mime type image/* representing the contract.",
-	    "required": true
+	    "required": false
         }
     }
 }
