@@ -1,3 +1,3 @@
 # pixura-docs
-Documentation for Pixura tooling that has no repo
+Documentation and example code for Pixura tooling that has no repo
 
