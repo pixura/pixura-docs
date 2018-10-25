@@ -13,7 +13,6 @@ const PIXURA_API_URL = 'https://alpha-token-platform.pixura.io';
  */
 export const createNewNFTContract = async (name, symbol) => {
   try {
-    // get the default account to sign the transaction from
     const accounts = await web3.eth.getAccounts();
     const nftContract = new web3.eth.Contract(PixuraNFT.abi);
     const deployArgs = {
