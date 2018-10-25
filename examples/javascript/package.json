@@ -1,0 +1,24 @@
+{
+  "name": "pixura-javscript-examples",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "await-timeout": "^0.3.0",
+    "axios": "^0.17.0",
+    "axios-jsonp-pro": "^1.0.1",
+    "circular-json": "^0.5.1",
+    "ramda": "^0.25.0",
+    "truffle-contract": "git://github.com/charlescrain/truffle-contract.git#split-tx-and-sync",
+    "web3": "^1.0.0-beta.26"
+  },
+  "devDependencies": {
+    "eslint": "^5.7.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.1",
+    "node-sass-chokidar": "0.0.3",
+    "prettier-eslint": "^8.8.2",
+    "react-scripts": "*"
+  }
+}
