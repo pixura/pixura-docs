@@ -3,7 +3,7 @@ import axios from 'axios';
 import web3 from './web3Util';
 import PixuraNFT from './abis/PixuraNFT';
 
-const PIXURA_API_URL = 'https://alpha-token-platform.pixura.io';
+const PIXURA_API_URL = 'https://devcon.pixura.io';
 
 /**
  * Description [ Create new ERC721 Smart Contract]
