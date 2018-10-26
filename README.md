@@ -18,7 +18,7 @@ Take a look at this example for [deploying a contract](https://github.com/Pixura
 There is a peer 2 peer marketplace for exchanging and trading NFTs deployed [here](https://ropsten.etherscan.io/address/0x5ab0bc9fb287f1aab5e8a6724b5020317100d721). Currently all orders and prices are stored onchain. The next iteration of the marketplace will include infrastructure for offchain orders.
 
 ### Querying specific NFT smart contract data
-You can run queries over indexed smart contracts with simple GraphQL queries. Take a look at this example here.
+You can run queries over indexed smart contracts with simple GraphQL queries. Try out the interactive [GraphQL API here](https://ropsten-api.pixura.io/graphiql).
 
 ### Searching NFT metadata
 Users can search through NFT metadata with Elasticsearch. We have a sample [react component](https://github.com/Pixura/pixura-react-sdk) that shows you how the API works. 
