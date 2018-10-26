@@ -14,17 +14,14 @@ Checkout our [getting started guide](https://github.com/Pixura/pixura-docs/blob/
 ### Issuing tokens
 Take a look at this example for [deploying a contract](https://github.com/Pixura/pixura-docs/blob/master/examples/javascript/createNFTContract.js) and this one for [issuing tokens](https://github.com/Pixura/pixura-docs/blob/master/examples/javascript/createNFT.js). 
 
-### Indexing your smart contract
-To get your smart contract data indexed by the API take a look at registering the contract address with the API here.
-
 ### Building a marketplace
-There is a peer 2 peer marketplace for exchanging and trading NFTs deployed here. Currently all orders and prices are stored onchain. The next iteration of the marketplace will include infrastructure for offchain orders.
+There is a peer 2 peer marketplace for exchanging and trading NFTs deployed [here](https://ropsten.etherscan.io/address/0x5ab0bc9fb287f1aab5e8a6724b5020317100d721). Currently all orders and prices are stored onchain. The next iteration of the marketplace will include infrastructure for offchain orders.
 
 ### Querying specific NFT smart contract data
 You can run queries over indexed smart contracts with simple GraphQL queries. Take a look at this example here.
 
 ### Searching NFT metadata
-Users can search through NFT metadata with Elasticsearch. We have a sample react component that shows you how the API works. 
+Users can search through NFT metadata with Elasticsearch. We have a sample [react component](https://github.com/Pixura/pixura-react-sdk) that shows you how the API works. 
 
 ### Stay up to date
 [Join our newsletter for community and platform updates](http://eepurl.com/dmmVnH)
