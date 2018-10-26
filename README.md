@@ -9,10 +9,10 @@ We are actively building out the platform tools
 [Join the conversation to contribute](https://t.me/pixura)
 
 ## Getting started
-Checkout our getting started guide for an overview of the platform and how to get started building NFT applications. 
+Checkout our [getting started guide](https://github.com/Pixura/pixura-docs/blob/master/getting-started.md) for an overview of the platform and how to get started building NFT applications. 
 
 ### Issuing tokens
-Take a look at this example here. 
+Take a look at this example for [deploying a contract](https://github.com/Pixura/pixura-docs/blob/master/examples/javascript/createNFTContract.js) and this one for [issuing tokens](https://github.com/Pixura/pixura-docs/blob/master/examples/javascript/createNFT.js). 
 
 ### Indexing your smart contract
 To get your smart contract data indexed by the API take a look at registering the contract address with the API here.
