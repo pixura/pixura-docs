@@ -1,5 +1,6 @@
 # Pixura-docs
 Pixura is a set of tools for building NFT applications and dapps that focuses on
+![Pixura Inc Logo](https://github.com/Pixura/pixura-docs/blob/master/assets/Screen%20Shot%202018-10-26%20at%208.21.19%20AM.png?raw=true)
 * Tokenization
 * Exchange
 * Search
