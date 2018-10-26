@@ -1,5 +1,6 @@
 
 ![Pixura Inc Logo](https://github.com/Pixura/pixura-docs/blob/master/assets/Screen%20Shot%202018-10-26%20at%208.21.19%20AM.png?raw=true)
+
 The toolkit for building NFT applications and dapps that focuses on
 * Tokenization
 * Exchange
